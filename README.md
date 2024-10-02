@@ -10,7 +10,7 @@ A simple and efficient password generator built with React.js and Vite. This app
 
 
 ### Tips:
-![Watch the Password Generator Demo](public/Screenshots/thumbnail.png)](public/Screenshots/video.mp4)
+[![Watch the Password Generator Demo](public/Screenshots/thumbnail.png)](public/Screenshots/video.mp4)]
 
 
 
